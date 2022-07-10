@@ -24,9 +24,7 @@
 </p>
 <p align='center'>
 🥈  <img src="https://img.shields.io/badge/C++-00599C?style={style}&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style={style}&logo=ROS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style={style}&logo=PostgreSQL&logoColor=white"/></a></a>
-<img src="https://img.shields.io/badge/Qgis-589632?&logo=Qgis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jetson Nano-76B900?&logo=NVIDIA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jetson Xavier-76B900?&logo=NVIDIA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-00000?style={style}&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={style}&logo=JavaScript&logoColor=white"/></a></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/></a>
 </p>
