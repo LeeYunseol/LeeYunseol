@@ -23,7 +23,7 @@
 🥇  <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style={style}&logo=PyTorch&logoColor=white"/></a>   
 </p>
 <p align='center'>
-🥈  <img src="https://img.shields.io/badge/C++-#00599C?style={style}&logo=R&logoColor=white"/>
+🥈  <img src="https://img.shields.io/badge/C++-00599C?style={style}&logo="C++"&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style={style}&logo=ROS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style={style}&logo=PostgreSQL&logoColor=white"/></a></a>
 <img src="https://img.shields.io/badge/Qgis-589632?&logo=Qgis&logoColor=white"/></a>
