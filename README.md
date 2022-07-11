@@ -41,7 +41,7 @@
 
 ## Study
 - <a href='https://github.com/LeeYunseol/GAN'>GAN</a> : Study GAN with Pytorch - basics
-- <a href='https://github.com/winston1214/baseline_ML'>baseline_ML</a> : My first Study to ML
+- <a href='https://github.com/LeeYunseol/Lab_study'>Lab Study</a> : Lab Study of Bae Hye-rim, Department of Industrial Engineering, PNU
 - <a href='https://github.com/winston1214/baekjoon'>baekjoon</a> : Algorithm study for coding test
 - <a href='https://github.com/winston1214/Data-structure'>Data-structure</a> : Study to Data-Structure with Python
 - <a href='https://github.com/winston1214/HandsOn-ML'>HandsOn-MachineLearning</a>
