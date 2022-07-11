@@ -33,7 +33,7 @@
 - <a href='https://github.com/LeeYunseol/BigLeaderProject'>BigLeader</a> : Segmentation between kidney and cancer
 - <a href='https://github.com/LeeYunseol/PortBuilderWithUnity'>Port Builder with Unity</a> : Development of Smart Port IoT Infrastructure Construction Technology
 - <a href='https://github.com/LeeYunseol/KMI'>SCFI Prediction</a> : Development of an Artificial Intelligence-Based Container Rate Prediction Model
-- <a href='https://github.com/winston1214/Smart_ATM'>SMART ATM</a> : AI hub Idea Contest First Prize Code 🥇
+- <a href='https://github.com/LeeYunseol/KMI/tree/main/%EB%85%BC%EB%AC%B8'>Ensemble Feature Selection</a> : Ensemble method for feature selection in time-series prediction based on image similarity
 - <a href='https://github.com/winston1214/Sign-Langugage-project'>Sign-Language Translation</a> : BOAZ 15th Conference Project 👨‍👨‍👧‍👧
 - <a href='https://github.com/winston1214/Artistic-Sentence'>Artistic Sentence</a> : Casptone Design 🏫
 
