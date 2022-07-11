@@ -44,14 +44,11 @@
 - <a href='https://github.com/LeeYunseol/Lab_study'>Lab Study</a> : Lab Study of Bae Hye-rim, Department of Industrial Engineering, PNU
 - <a href='https://github.com/LeeYunseol/Baekjoon'>Baekjoon</a> : Study coding
 - <a href='https://github.com/LeeYunseol/C-double-plus'>C++</a> : Study C++ 
-- <a href='https://github.com/winston1214/HandsOn-ML'>HandsOn-MachineLearning</a>
-- <a href='https://github.com/winston1214/DeepLearning-from-scratch'>DeepLearning from scaratch</a>
-- <a href='https://github.com/winston1214/BOAZ'>BOAZ</a>👨‍👨‍👧‍👧
-- <a href='https://github.com/winston1214/OpenCV-YOLO'>OpenCV-YOLO</a> : Computer Vision Basic Study - mainly OpenCV & YOLO
-  - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/prac_opencv'>Basic opencv & Description(ref. README)</a>
-  - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/Yolo_mark'>YOLO_MARK(for Image Labeling) & How to use(ref. README)</a>
-- <a href='https://github.com/winston1214/INU'>INU</a> : Summary of INU classes 🏫
-- <a href='https://github.com/winston1214/Linear_Algebra'>Linear Algebra</a> : Study to Linear Algebra
+- <a href='https://github.com/LeeYunseol/DataStructure'>DataStructure</a> : Study Data Structure with C++
+- <a href='https://github.com/LeeYunseol/DataBase'>Database</a> : Study Database with Python and MySQL 
+- <a href='https://github.com/LeeYunseol/PlatformProgramming'>PlatformProgramming</a> : Study Java
+- - <a href='https://github.com/LeeYunseol/DataBase'>Database</a> : Study Database with Python and MySQL 
+- - <a href='https://github.com/LeeYunseol/DataBase'>Database</a> : Study Database with Python and MySQL 
 ## Etc
 - <a href='https://github.com/winston1214/Useful-Function'>Useful Function</a> : Useful function collection
 - <a href='https://github.com/winston1214/crawling_code'>crawling_code</a> : Crawling Basic Code
