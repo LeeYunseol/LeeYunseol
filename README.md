@@ -34,8 +34,8 @@
 - <a href='https://github.com/LeeYunseol/PortBuilderWithUnity'>Port Builder with Unity</a> : Development of Smart Port IoT Infrastructure Construction Technology
 - <a href='https://github.com/LeeYunseol/KMI'>SCFI Prediction</a> : Development of an Artificial Intelligence-Based Container Rate Prediction Model
 - <a href='https://github.com/LeeYunseol/KMI/tree/main/%EB%85%BC%EB%AC%B8'>Ensemble Feature Selection</a> : Ensemble method for feature selection in time-series prediction based on image similarity
-- <a href='https://github.com/winston1214/Sign-Langugage-project'>Sign-Language Translation</a> : BOAZ 15th Conference Project 👨‍👨‍👧‍👧
-- <a href='https://github.com/winston1214/Artistic-Sentence'>Artistic Sentence</a> : Casptone Design 🏫
+- <a href='https://github.com/LeeYunseol/DataBase/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)'>Class Registration</a> : Class Registration using Python GUI and MySQL 👨
+<!-- - <a href='https://github.com/winston1214/Artistic-Sentence'>Artistic Sentence</a> : Casptone Design 🏫 -->
 
 ## Study
 - <a href='https://github.com/LeeYunseol/GAN'>GAN</a> : Study GAN with Pytorch - basics
