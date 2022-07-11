@@ -31,8 +31,6 @@
 
 ## Data Analysis Project (Kaggle, Individual Project, Term Project etc..)
 - <a href='https://github.com/LeeYunseol/BigLeaderProject'>BigLeader</a> : Segmentation between kidney and cancer
-- <a href='https://github.com/winston1214/AICT'>AICT</a> : Project of AICT Internship( <a href='https://github.com/winston1214/AICT/tree/master/yolov5'>YOLOv5</a>,<a href='https://github.com/winston1214/AICT/tree/master/Tram/geocoding'>Geocoding</a>,<a href='https://github.com/winston1214/AICT/tree/master/yolov5_motion'>YOLOv5_motion</a>,<a href='https://github.com/winston1214/AICT/tree/master/ROS'>How to ROS</a> )
-- <a href='https://github.com/winston1214/ROS-YOLOv5'>ROS-YOLOv5</a> : Yolov5 in ROS(+Time to Collision Calculate) ⛔Secret..(Sorry..) 🥇 
 - <a href='https://github.com/winston1214/Car_Counting'>Object Counting</a> : Object Counting using YOLOv5 & DeepSort
 - <a href='https://github.com/winston1214/Object_Detection_Drone'>Object Detection in Drone</a> : Object Detection in Drone(contains UI)
 - <a href='https://github.com/winston1214/Smart_ATM'>SMART ATM</a> : AI hub Idea Contest First Prize Code 🥇
