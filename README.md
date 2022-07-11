@@ -32,7 +32,7 @@
 ## Data Analysis Project (Kaggle, Individual Project, Term Project etc..)
 - <a href='https://github.com/LeeYunseol/BigLeaderProject'>BigLeader</a> : Segmentation between kidney and cancer
 - <a href='https://github.com/LeeYunseol/PortBuilderWithUnity'>Port Builder with Unity</a> : Development of Smart Port IoT Infrastructure Construction Technology
-- <a href='https://github.com/winston1214/Object_Detection_Drone'>Object Detection in Drone</a> : Object Detection in Drone(contains UI)
+- <a href='Development of an Artificial Intelligence-Based Container Rate Prediction Model'>SCFI Prediction</a> : Development of an Artificial Intelligence-Based Container Rate Prediction Model
 - <a href='https://github.com/winston1214/Smart_ATM'>SMART ATM</a> : AI hub Idea Contest First Prize Code 🥇
 - <a href='https://github.com/winston1214/Sign-Langugage-project'>Sign-Language Translation</a> : BOAZ 15th Conference Project 👨‍👨‍👧‍👧
 - <a href='https://github.com/winston1214/Artistic-Sentence'>Artistic Sentence</a> : Casptone Design 🏫
