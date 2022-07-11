@@ -40,7 +40,7 @@
 - <a href='https://github.com/winston1214/Artistic-Sentence'>Artistic Sentence</a> : Casptone Design 🏫
 
 ## Study
-- <a href='https://github.com/winston1214/Pytorch-First-Step'>Pytorch-First-Step</a> : Pytorch Study - basics
+- <a href='https://github.com/LeeYunseol/GAN'>GAN</a> : Study GAN with Pytorch - basics
 - <a href='https://github.com/winston1214/baseline_ML'>baseline_ML</a> : My first Study to ML
 - <a href='https://github.com/winston1214/baekjoon'>baekjoon</a> : Algorithm study for coding test
 - <a href='https://github.com/winston1214/Data-structure'>Data-structure</a> : Study to Data-Structure with Python
