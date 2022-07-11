@@ -6,7 +6,7 @@
              src="https://img.shields.io/badge/CV-black?&logo=Sketch#F7B500&logoColor=white&link="
                                    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href=''>
+    <a href='https://github.com/LeeYunseol/My_Paper'>
         <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link='/>
     </a>
     <a href='https://blog.naver.com/hyunjea414/'>
