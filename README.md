@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/></a>
 </p>
 
-## Project (Data Analysis Project(Kaggle, Individual Project, Term Project etc..)
+## Data Analysis Project (Kaggle, Individual Project, Term Project etc..)
 - <a href='https://github.com/LeeYunseol/BigLeaderProject'>BigLeader</a> : Segmentation between kidney and cancer
 - <a href='https://github.com/winston1214/AICT'>AICT</a> : Project of AICT Internship( <a href='https://github.com/winston1214/AICT/tree/master/yolov5'>YOLOv5</a>,<a href='https://github.com/winston1214/AICT/tree/master/Tram/geocoding'>Geocoding</a>,<a href='https://github.com/winston1214/AICT/tree/master/yolov5_motion'>YOLOv5_motion</a>,<a href='https://github.com/winston1214/AICT/tree/master/ROS'>How to ROS</a> )
 - <a href='https://github.com/winston1214/ROS-YOLOv5'>ROS-YOLOv5</a> : Yolov5 in ROS(+Time to Collision Calculate) ⛔Secret..(Sorry..) 🥇 
