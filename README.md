@@ -47,8 +47,8 @@
 - <a href='https://github.com/LeeYunseol/DataStructure'>DataStructure</a> : Study Data Structure with C++
 - <a href='https://github.com/LeeYunseol/DataBase'>Database</a> : Study Database with Python and MySQL 
 - <a href='https://github.com/LeeYunseol/PlatformProgramming'>PlatformProgramming</a> : Study Java
-- - <a href='https://github.com/LeeYunseol/DataBase'>Database</a> : Study Database with Python and MySQL 
-- - <a href='https://github.com/LeeYunseol/DataBase'>Database</a> : Study Database with Python and MySQL 
+
+
 ## Etc
 - <a href='https://github.com/winston1214/Useful-Function'>Useful Function</a> : Useful function collection
 - <a href='https://github.com/winston1214/crawling_code'>crawling_code</a> : Crawling Basic Code
