@@ -53,8 +53,6 @@
 - <a href='https://github.com/winston1214/Useful-Function'>Useful Function</a> : Useful function collection
 - <a href='https://github.com/winston1214/crawling_code'>crawling_code</a> : Crawling Basic Code
 
-<p></p>
-<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYunseol)](https://github.com/LeeYunseol/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYunseol)](https://github.com/LeeYunseol/github-readme-stats)
 
