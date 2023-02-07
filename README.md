@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=LeeYunseol's%20GitHub%20Profile%20!&descAlignY=51&descAlign=62)
 
 <p align='center'>
-    <a href="[https://github.com/LeeYunseol/LeeYunseol/blob/main/CV/CV](https://github.com/LeeYunseol/LeeYunseol/blob/main/CV/CV.pdf)">
+    <a href="https://github.com/LeeYunseol/LeeYunseol/blob/main/CV/CV.pdf">
         <img 
              src="https://img.shields.io/badge/CV-black?&logo=Sketch#F7B500&logoColor=white&link=https://github.com/LeeYunseol/LeeYunseol/blob/main/CV/CV.pdf"
                                    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
