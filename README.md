@@ -10,10 +10,6 @@
         <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link='/>
     </a>
 
-    <a href='mailto:hyunjea414@gmail.com'>
-        <img src='https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:hyunjea414@gmail.com'/>
-    </a>
-
 </p>
 
 <p align='center'>
