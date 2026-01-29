@@ -9,10 +9,7 @@
     <a href='https://github.com/LeeYunseol/My_Paper'>
         <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link='/>
     </a>
-    <a href='https://blog.naver.com/hyunjea414/'>
-        <img
-             src='http://img.shields.io/badge/-Blog-black?&logo=Blogger#E20074&link=https://blog.naver.com/hyunjea414/'/>
-    </a>
+
     <a href='mailto:hyunjea414@gmail.com'>
         <img src='https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:hyunjea414@gmail.com'/>
     </a>
